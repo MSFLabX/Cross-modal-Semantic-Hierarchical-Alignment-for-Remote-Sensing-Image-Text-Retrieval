@@ -4,7 +4,7 @@
 **Affiliations:** <sup>1</sup> School of Information Science and Engineering, Hunan Normal University, Changsha 410081, China; <sup>2</sup> School of Robotics, Hunan University, Changsha 410082, China
 **Corresponding author:** Qiya Song (sqyunb@hnu.edu.cn)
 
-![Overview of the proposed CSHA framework](asserts/framework.png)
+![Overview of the proposed CSHA framework](framework.png)
 
 ## Code
 
